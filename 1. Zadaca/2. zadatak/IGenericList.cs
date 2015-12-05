@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.zadatak
 {
-    interface IGenericList<X>
+    public interface IGenericList<X>
     {
         // Adds an item to the collection
         void Add(X item);
