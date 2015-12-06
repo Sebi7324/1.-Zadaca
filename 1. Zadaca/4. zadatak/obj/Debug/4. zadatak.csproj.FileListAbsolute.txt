@@ -1,1 +1,8 @@
 C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\bin\Debug\_4.zadatak.exe.config
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\bin\Debug\_4.zadatak.exe
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\bin\Debug\_4.zadatak.pdb
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\bin\Debug\_2.zadatak.exe
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\bin\Debug\_2.zadatak.pdb
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\obj\Debug\4. zadatak.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\obj\Debug\_4.zadatak.exe
+C:\Users\Sebastian\Documents\FAKS\3. semestar\Vještine - Razvoj aplikacija u programskom jeziku C#\DZ\1.-Zadaca\1. Zadaca\4. zadatak\obj\Debug\_4.zadatak.pdb

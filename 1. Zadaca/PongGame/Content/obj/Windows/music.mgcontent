@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Sebastian/Documents/FAKS/3. semestar/Vještine - Razvoj aplikacija u programskom jeziku C#/DZ/1.-Zadaca/1. Zadaca/PongGame/Content/music.mp3</SourceFile>
+  <SourceTime>2015-12-06T18:43:23.097945+01:00</SourceTime>
+  <DestFile>C:/Users/Sebastian/Documents/FAKS/3. semestar/Vještine - Razvoj aplikacija u programskom jeziku C#/DZ/1.-Zadaca/1. Zadaca/PongGame/Content/bin/Windows/music.xnb</DestFile>
+  <DestTime>2015-12-06T18:43:58.8873572+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Sebastian/Documents/FAKS/3. semestar/Vještine - Razvoj aplikacija u programskom jeziku C#/DZ/1.-Zadaca/1. Zadaca/PongGame/Content/bin/Windows/music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

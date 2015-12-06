@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2.zadatak
 {
-    class GenericList<X> : IGenericList<X>
+    public class GenericList<X> : IGenericList<X>
     {
 
         private X[] _internalStorage;
